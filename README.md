@@ -263,37 +263,9 @@ We welcome contributions from the community! Please read our [Contributing Guide
 ![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/IntegriGuard)
 ![Last Commit](https://img.shields.io/github/last-commit/yourusername/IntegriGuard)
 
----
 
-## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 IntegriGuard Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
-```
-
----
-
-## 📞 Contact & Support
-
-- 📧 **Email:** support@integuard.dev
-- 💬 **Discord:** [Join our community](https://discord.gg/intriguard)
-- 🐦 **Twitter:** [@IntegriGuard](https://twitter.com/intriguard)
-- 📖 **Documentation:** [docs.integuard.dev](https://docs.integuard.dev)
-- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/yourusername/IntegriGuard/issues)
-
----
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Thanks to all contributors who have helped shape IntegriGuard
 - Built with open-source technologies and community support
