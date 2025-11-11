@@ -10,8 +10,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5+-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5+-646CFF?logo=vite)](https://vitejs.dev/)
 
-[Features](#-key-features) • [Demo](#-demo) • [Installation](#-installation) • [Documentation](#-documentation) • [Contributing](#-contributing)
-
 ---
 
 </div>
@@ -82,54 +80,6 @@ To empower educational institutions with AI-driven insights that promote academi
 </tr>
 </table>
 
----
-
-## 📁 Project Structure
-
-```
-IntegriGuard/
-│
-├── 📄 README.md                    # You are here
-├── 📄 .gitignore                
-│
-├── 📂 frontend/                    # React + TypeScript application
-│   ├── 📂 src/
-│   │   ├── 📂 components/          # Reusable UI components
-│   │   ├── 📂 pages/               # Route-based page components
-│   │   ├── 📂 hooks/               # Custom React hooks
-│   │   ├── 📂 services/            # API integration layer
-│   │   ├── 📂 utils/               # Helper functions
-│   │   ├── 📂 assets/              # Images, fonts, icons
-│   │   └── 📂 styles/              # Global styles
-│   ├── 📄 package.json
-│   ├── 📄 vite.config.ts
-│   ├── 📄 tailwind.config.js
-│   └── 📄 tsconfig.json
-│
-├── 📂 backend/
-│   └── 📂 student-risk-api/        # Python REST API
-│       ├── 📂 models/              # ML models and schemas
-│       ├── 📂 routes/              # API endpoints
-│       ├── 📂 services/            # Business logic layer
-│       ├── 📂 utils/               # Helper functions
-│       ├── 📂 config/              # Configuration files
-│       ├── 📂 tests/               # Unit and integration tests
-│       ├── 📄 main.py              # Application entry point
-│       ├── 📄 requirements.txt     # Python dependencies
-│       └── 📄 .env.example         # Environment variables template
-│
-├── 📂 docs/                        # Documentation
-│   ├── 📄 API.md                   # API documentation
-│   ├── 📄 ARCHITECTURE.md          # System architecture
-│   └── 📄 DEPLOYMENT.md            # Deployment guide
-│
-└── 📂 scripts/                     # Automation scripts
-    ├── 📄 setup.sh                 # Initial setup script
-    └── 📄 deploy.sh                # Deployment automation
-```
-
----
-
 ## 🚀 Installation
 
 ### Prerequisites
@@ -197,33 +147,6 @@ pytest tests/
 pytest --cov=app tests/
 ```
 
----
-
-## 🌍 Deployment
-
-IntegriGuard supports multiple deployment strategies:
-
-- **Docker Compose** - Single-command containerized deployment
-- **Kubernetes** - Production-grade orchestration
-- **Cloud Platforms** - AWS, Azure, GCP ready
-- **Traditional Hosting** - VPS or dedicated servers
-
-See [DEPLOYMENT.md](docs/DEPLOYMENT.md) for detailed instructions.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before submitting pull requests.
-
-### Development Workflow
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
 
 ## 👥 Team
 
@@ -236,33 +159,23 @@ We welcome contributions from the community! Please read our [Contributing Guide
 </td>
 <td align="center">
 <img src="https://via.placeholder.com/100" width="100px;" alt=""/><br />
-<sub><b>Team Member</b></sub><br />
+<sub><b>Yash</b></sub><br />
 <sub>Backend Engineer</sub>
 </td>
 <td align="center">
 <img src="https://via.placeholder.com/100" width="100px;" alt=""/><br />
-<sub><b>Team Member</b></sub><br />
+<sub><b>Vaibhav</b></sub><br />
 <sub>Frontend Engineer</sub>
 </td>
 <td align="center">
 <img src="https://via.placeholder.com/100" width="100px;" alt=""/><br />
-<sub><b>Team Member</b></sub><br />
+<sub><b>Vaihav</b></sub><br />
 <sub>ML Engineer</sub>
 </td>
 </tr>
 </table>
 
 **Developed with ❤️ as part of our Engineering Coursework**
-
----
-
-## 📊 Project Status
-
-![Status](https://img.shields.io/badge/Status-Active%20Development-green)
-![Issues](https://img.shields.io/github/issues/yourusername/IntegriGuard)
-![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/IntegriGuard)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/IntegriGuard)
-
 
 
 ##  Acknowledgments
