@@ -1,0 +1,72 @@
+# =========================
+# Global Ignored Files
+# =========================
+*.env
+*.log
+.DS_Store
+Thumbs.db
+
+# =========================
+# Python (Backend)
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.venv/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Cached / Model Files
+saved_models/*.joblib
+
+# =========================
+# Node / React (Frontend)
+# =========================
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# TypeScript build files
+*.tsbuildinfo
+
+# =========================
+# Editor & Tooling
+# =========================
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# Mac / Windows OS Junk
+# =========================
+.DS_Store
+.DS_Store?
+desktop.ini
+$RECYCLE.BIN/
+
+# =========================
+# Backup
+# =========================
+*.bak
+*.tmp
