@@ -4,7 +4,6 @@
 
 ### AI-Powered Student Integrity & Risk Monitoring Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react)](https://reactjs.org/)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5+-3178C6?logo=typescript)](https://www.typescriptlang.org/)
